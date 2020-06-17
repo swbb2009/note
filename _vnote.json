@@ -1,0 +1,76 @@
+{
+    "attachment_folder": "_v_attachments",
+    "created_time": "2019-12-19T12:17:11Z",
+    "files": [
+    ],
+    "image_folder": "",
+    "recycle_bin_folder": "_v_recycle_bin",
+    "sub_directories": [
+        {
+            "name": "spring"
+        },
+        {
+            "name": "windows_linux"
+        },
+        {
+            "name": "webservice"
+        },
+        {
+            "name": "概念"
+        },
+        {
+            "name": "docker"
+        },
+        {
+            "name": "tomcat"
+        },
+        {
+            "name": "网络协议"
+        },
+        {
+            "name": "proper"
+        },
+        {
+            "name": "java"
+        },
+        {
+            "name": "催催"
+        },
+        {
+            "name": "spring_boot"
+        },
+        {
+            "name": "SVN"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "MQ"
+        },
+        {
+            "name": "myeclipse"
+        },
+        {
+            "name": "jenkins"
+        },
+        {
+            "name": "中间件"
+        },
+        {
+            "name": "缓存"
+        },
+        {
+            "name": "日记小本"
+        },
+        {
+            "name": "maven"
+        },
+        {
+            "name": "卓望"
+        }
+    ],
+    "tags": [
+    ],
+    "version": "1"
+}
